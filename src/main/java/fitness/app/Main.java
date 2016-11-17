@@ -6,6 +6,8 @@ public class Main {
 	
 	public static void main(String[] args) throws SQLException {
 		
+		Fenetre fen = new Fenetre ();
+		
 		// ::LOGIN:: //
 		
 		Connexion uneConnexion = new Connexion();
